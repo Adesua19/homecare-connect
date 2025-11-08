@@ -2,9 +2,17 @@
 
 **Connecting Busy Families with Trusted Household Help**
 
-## What Is This Project?
+## What Is HomeCare Connect?
 
-HomeCare Connect is a mobile app that helps busy people find reliable household workers for cleaning, cooking, laundry, and errands. Think of it like Uber, but for household chores.
+HomeCare Connect is a mobile app that connects busy families with verified household service providers. Think of it as your personal assistant for finding reliable help with cleaning, cooking, laundry, and other household tasks.
+
+## Why This Matters
+
+In today's fast-paced world, managing household tasks while balancing work and family life is increasingly challenging. Our platform solves this by:
+- Providing easy access to verified household help
+- Ensuring safety through thorough background checks
+- Offering flexible scheduling options
+- Creating job opportunities for service providers
 
 ### The Problem
 
@@ -42,29 +50,35 @@ HomeCare Connect brings these two groups together safely and easily through a mo
 
 ## Key Features
 
-### 1. Verified Workers
-Every service provider goes through:
-- ID verification
-- Background checks
-- Reference checks (for experienced workers)
-- Skills tests (for newcomers)
+**Easy Booking**
+- Book trusted help in minutes
+- Select from various services
+- Choose your preferred time
+- Simple booking process
 
-### 2. Easy Booking
-- Choose your service (cleaning, cooking, laundry, errands)
-- Pick your date and time
-- See available workers near you
-- Book with one tap
+**Verified Providers**
+- All workers thoroughly screened
+- Complete background checks
+- Skills verification
+- Reference validation
 
-### 3. Safe Payments
-- Pay through the app (no cash needed)
-- Money held safely until job is done
-- Automatic payment to workers after completion
-
-### 4. Trust & Safety
-- GPS tracking when worker is on the job
+**Real-time Tracking**
+- Track service provider arrival
+- Live status updates
 - In-app messaging
-- 24/7 emergency hotline
-- Two-way ratings and reviews
+- Location monitoring
+
+**Secure Payments**
+- Safe payment processing
+- Escrow protection
+- Automatic releases
+- Complete transaction history
+
+**Quality Assurance**
+- Rate and review services
+- Provider ratings
+- Service monitoring
+- Customer feedback
 
 ---
 
@@ -167,7 +181,7 @@ HomeCare Connect is more than just an app - it's about:
 ## Project Structure
 ```
 homecare-connect/
-├── README.md                    # This file
+├── README.md                    # Non-technical details
 └── systemArchitecture.md        # Technical details
 ```
 
